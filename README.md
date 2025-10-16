@@ -4,14 +4,14 @@
 
 ## Abstract
 
-Scientific computing has seen rapid progress in recent years, largely driven by developments in artificial intelligence hardware and software. These advances have focused on parallelization, automatic differentiation, and just-in-time compilation—technologies that are now reshaping how computational work is performed. This workshop introduces these modern computing environments and their key features, with a focus on their potential applications in (macro)economics. The course serves as an introduction to these tools, which can be applied across a wide range of empirical and quantitative (numerical) work in economics.
+Scientific computing has seen rapid progress in recent years, largely driven by developments in artificial intelligence hardware and software. These advances have focused on parallelization, automatic differentiation, and just-in-time compilation—technologies that are now reshaping how computational work is performed. This course introduces these modern computing environments and their key features, with a focus on their potential applications in (macro)economics. The course serves as an introduction to these tools, which can be applied across a wide range of empirical and quantitative work in economics.
 
 \* This course is adapted from a course by [John Stachurski](https://johnstachurski.net/), available [here](https://github.com/QuantEcon/bank_of_portugal_2025).
 
 ## Details
 
 * Location: D-113 
-* Dates: Monday 14:00 - 16:30, October 20th - November 24th 2025
+* Dates: Monday 14:00 - 17:00, October 20th - November 24th 2025
 * Instructor: [Joao B. Sousa](https://jbsousa.com/)
 
 ## Schedule
@@ -20,9 +20,9 @@ Scientific computing has seen rapid progress in recent years, largely driven by 
 * Prep
     - Use [Colab](https://colab.research.google.com/) or install [Anaconda](https://www.anaconda.com/download) and [JAX](https://docs.jax.dev/en/latest/installation.html)
     - Use [Jupyter lab](https://jupyter.org/) (or, in future, a text editor, or an AI)
+    - See these notebooks on [Python basics](https://github.com/jbrogueira/python_intro)
 * [intro_slides/intro.pdf](october_20/intro_slides/intro.pdf)
 * [1_quick_python_intro.ipynb](october_20/1_quick_python_intro.ipynb)
-* [sci_comp_slides/sci_comp.pdf](october_20/sci_comp_slides/sci_comp.pdf)
 * [2_scientific_python_intro.ipynb](october_20/2_scientific_python_intro.ipynb)
 * [3_simulation_exercises.ipynb](october_20/3_simulation_exercises.ipynb)
 
@@ -66,4 +66,4 @@ lectures](https://python-programming.quantecon.org/intro.html) will be helpful.
 ### Acknowledgments
 
 This project is based on work from the QuantEcon repository (MIT License, © 2025 QuantEcon).
-Substantial modifications and new features by Joao Sousa (© 2025).
+Modifications and new features by Joao Sousa (© 2025).
