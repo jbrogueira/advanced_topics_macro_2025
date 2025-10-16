@@ -1,0 +1,20 @@
+name: advanced_topics_macro__2025
+channels:
+  - conda-forge
+dependencies:
+  - anaconda::python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - numba
+  - sympy
+  - pip
+  - pip:
+    - quantecon
+    - jax[cpu]
+    - keras
+    - fortran-magic
+    - nbconvert
+    - optax
+    - jupytext
+    - rich
