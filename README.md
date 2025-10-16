@@ -1,12 +1,12 @@
-# Advanced Topics in Macro, 2025\*
+# PhD Advanced Topics in Macro, 2025\*
 
-![](NOVASBE-LOGO.png)
+![](NOVASBE-LOGO.ai)
 
 ## Abstract
 
 Scientific computing has seen rapid progress in recent years, largely driven by developments in artificial intelligence hardware and software. These advances have focused on parallelization, automatic differentiation, and just-in-time compilation—technologies that are now reshaping how computational work is performed. This workshop introduces these modern computing environments and their key features, with a focus on their potential applications in (macro)economics. The course serves as an introduction to these tools, which can be applied across a wide range of empirical and quantitative (numerical) work in economics.
 
-\* This course is largely based on a course by [John Stachurski](https://johnstachurski.net/), that can be found [here](https://github.com/QuantEcon/bank_of_portugal_2025).
+\* This course is adapted from a course by [John Stachurski](https://johnstachurski.net/), available [here](https://github.com/QuantEcon/bank_of_portugal_2025).
 
 ## Details
 
