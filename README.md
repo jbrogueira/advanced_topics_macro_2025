@@ -1,6 +1,6 @@
 # PhD Advanced Topics in Macro, 2025\*
 
-![](NOVASBE-LOGO.ai)
+<img src="NOVASBE-LOGO.png" alt="Nova SBE Logo" width="180">
 
 ## Abstract
 
