@@ -2,6 +2,9 @@
 # TODO: Remove this block when ready to publish everything!
 # *.ipynb
 
+# Mac stuff
+.DS_Store
+
 # Temporary development files
 tuesday/source/mathfoo.py
 tuesday/source/mod.py
