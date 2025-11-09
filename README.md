@@ -28,26 +28,26 @@ Scientific computing has seen rapid progress in recent years, largely driven by 
 * [1_scientific_python_intro.ipynb](october_27/1_scientific_python_intro.ipynb)
 * [2_simulation_exercises.ipynb](october_27/2_simulation_exercises.ipynb)
 
-
 ### November 3: Examples
 * [1_writing_good_code.ipynb](november_3/1_writing_good_code.ipynb)
 * [2_finite_markov.ipynb](november_3/2_finite_markov.ipynb)
 * [3_job_search.ipynb](november_3/3_job_search.ipynb)
 * [4_markov_js_with_sep.ipynb](november_3/4_markov_js_with_sep.ipynb)
 * [5_markov_exercises.ipynb](november_3/5_markov_exercises.ipynb)
-<!-- * [jax_slides/jax.pdf](november_3/jax_slides/jax.pdf)
-* [1_fun_with_jax.ipynb](november_3/1_fun_with_jax.ipynb)
-* [2_jax_intro.ipynb](november_3/2_jax_intro.ipynb)
-* [3_autodiff.ipynb](november_3/3_autodiff.ipynb)
-* [4_job_search_jax.ipynb](november_3/4_job_search_jax.ipynb) -->
 
-### November 10: <!--JAX - Examples -->
+### November 10: JAX
+* [1_fun_with_jax.ipynb](november_10/1_fun_with_jax.ipynb)
+* [2_jax_intro.ipynb](november_10/2_jax_intro.ipynb)
+* [3_autodiff.ipynb](november_10/3_autodiff.ipynb)
+* [4_job_search_jax.ipynb](november_10/4_job_search_jax.ipynb) 
+
+### November 17: JAX - Examples 
 <!-- * [5_markov_js_with_sep_jax.ipynb](november_10/5_markov_js_with_sep_jax.ipynb)
 * [6_vectorization_example.ipynb](november_10/6_vectorization_example.ipynb)
 * [7_inventory_model.ipynb](november_10/7_inventory_model.ipynb)
 * [8_egm.ipynb](november_10/8_egm.ipynb) -->
 
-### November 17: <!--Deep Learning, Intro to NN-->
+ <!--### November 17: Deep Learning, Intro to NN-->
 <!-- * [dl_slides/anns.pdf](november_17/dl_slides/anns.pdf)
 * [1_keras.ipynb](november_17/1_keras.ipynb)
 * [2_jax_nn.ipynb](november_17/2_jax_nn.ipynb)
