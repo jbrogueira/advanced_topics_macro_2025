@@ -42,10 +42,11 @@ Scientific computing has seen rapid progress in recent years, largely driven by 
 * [4_job_search_jax.ipynb](november_10/4_job_search_jax.ipynb) 
 
 ### November 17: JAX - Examples 
-<!-- * [5_markov_js_with_sep_jax.ipynb](november_10/5_markov_js_with_sep_jax.ipynb)
-* [6_vectorization_example.ipynb](november_10/6_vectorization_example.ipynb)
-* [7_inventory_model.ipynb](november_10/7_inventory_model.ipynb)
-* [8_egm.ipynb](november_10/8_egm.ipynb) -->
+* [5_markov_js_with_sep_jax.ipynb](november_17/5_markov_js_with_sep_jax.ipynb)
+* [6_vectorization_example.ipynb](november_17/6_vectorization_example.ipynb)
+* [7_inventory_model.ipynb](november_17/7_inventory_model.ipynb)
+* [8_egm.ipynb](november_17/8_egm.ipynb)
+
 
  <!--### November 17: Deep Learning, Intro to NN-->
 <!-- * [dl_slides/anns.pdf](november_17/dl_slides/anns.pdf)
