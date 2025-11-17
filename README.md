@@ -14,6 +14,10 @@ Scientific computing has seen rapid progress in recent years, largely driven by 
 * Dates: Monday 14:00 - 17:00, October 20th - November 24th, 2025
 * Instructor: [Joao B. Sousa](https://jbsousa.com/)
 
+## Course Requirements
+
+See the [replication exercise instructions](exercise.md) for details on the course exam.
+
 ## Schedule
 
 ### October 20: Python Introduction/Refresher
