@@ -51,15 +51,11 @@ See the [replication exercise instructions](exercise.md) for details on the cour
 * [7_inventory_model.ipynb](november_17/7_inventory_model.ipynb)
 * [8_egm.ipynb](november_17/8_egm.ipynb)
 
-
- <!--### November 17: Deep Learning, Intro to NN-->
-<!-- * [dl_slides/anns.pdf](november_17/dl_slides/anns.pdf)
-* [1_keras.ipynb](november_17/1_keras.ipynb)
-* [2_jax_nn.ipynb](november_17/2_jax_nn.ipynb)
-* [3_extended_jax_nn.ipynb](november_17/3_extended_jax_nn.ipynb)
-* [4_wealth_grad_nn.ipynb](november_17/4_wealth_grad_nn.ipynb) -->
-
-### November 24
+### November 24: ANNs
+* [1_keras.ipynb](november_24/1_keras.ipynb)
+* [2_jax_nn.ipynb](november_24/2_jax_nn.ipynb)
+* [3_extended_jax_nn.ipynb](november_24/3_extended_jax_nn.ipynb)
+* [4_wealth_grad_nn.ipynb](november_24/4_wealth_grad_nn.ipynb)
 
 ## Additional Information
 
